@@ -1,0 +1,7 @@
+[user]
+    name = YushengZhao
+    email = yushengzhao99@gmail.com
+
+[alias]
+    lg = log --oneline --decorate --graph
+
